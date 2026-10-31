@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\goska\\Desktop\\02_mobilne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9616B3AC-38EA-1876-A276-DE107BF96211}|NotatkiMobilne\\NotatkiMobilne.csproj|c:\\users\\goska\\desktop\\02_mobilne\\notatkimobilne\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9616B3AC-38EA-1876-A276-DE107BF96211}|NotatkiMobilne\\NotatkiMobilne.csproj|solutionrelative:notatkimobilne\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9616B3AC-38EA-1876-A276-DE107BF96211}|NotatkiMobilne\\NotatkiMobilne.csproj|c:\\users\\goska\\desktop\\02_mobilne\\notatkimobilne\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9616B3AC-38EA-1876-A276-DE107BF96211}|NotatkiMobilne\\NotatkiMobilne.csproj|solutionrelative:notatkimobilne\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9616B3AC-38EA-1876-A276-DE107BF96211}|NotatkiMobilne\\NotatkiMobilne.csproj|c:\\users\\goska\\desktop\\02_mobilne\\notatkimobilne\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9616B3AC-38EA-1876-A276-DE107BF96211}|NotatkiMobilne\\NotatkiMobilne.csproj|solutionrelative:notatkimobilne\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9616B3AC-38EA-1876-A276-DE107BF96211}|NotatkiMobilne\\NotatkiMobilne.csproj|c:\\users\\goska\\desktop\\02_mobilne\\notatkimobilne\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9616B3AC-38EA-1876-A276-DE107BF96211}|NotatkiMobilne\\NotatkiMobilne.csproj|solutionrelative:notatkimobilne\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\goska\\Desktop\\02_mobilne\\NotatkiMobilne\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "NotatkiMobilne\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\goska\\Desktop\\02_mobilne\\NotatkiMobilne\\MainPage.xaml.cs",
+              "RelativeToolTip": "NotatkiMobilne\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T20:54:34.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\goska\\Desktop\\02_mobilne\\NotatkiMobilne\\App.xaml.cs",
+              "RelativeDocumentMoniker": "NotatkiMobilne\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\goska\\Desktop\\02_mobilne\\NotatkiMobilne\\App.xaml.cs",
+              "RelativeToolTip": "NotatkiMobilne\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T20:54:22.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\goska\\Desktop\\02_mobilne\\NotatkiMobilne\\MainPage.xaml",
+              "RelativeDocumentMoniker": "NotatkiMobilne\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\goska\\Desktop\\02_mobilne\\NotatkiMobilne\\MainPage.xaml*",
+              "RelativeToolTip": "NotatkiMobilne\\MainPage.xaml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-31T20:54:02.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\goska\\Desktop\\02_mobilne\\NotatkiMobilne\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "NotatkiMobilne\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\goska\\Desktop\\02_mobilne\\NotatkiMobilne\\MauiProgram.cs",
+              "RelativeToolTip": "NotatkiMobilne\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T20:53:38.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
