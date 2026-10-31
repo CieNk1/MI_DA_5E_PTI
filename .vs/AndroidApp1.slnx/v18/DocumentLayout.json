@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\goska\\Desktop\\03_testy_dokumentacja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{060E3451-677C-055B-277B-2E97F4139AA0}|AndroidApp1\\AndroidApp1.csproj|c:\\users\\goska\\desktop\\03_testy_dokumentacja\\androidapp1\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{060E3451-677C-055B-277B-2E97F4139AA0}|AndroidApp1\\AndroidApp1.csproj|solutionrelative:androidapp1\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060E3451-677C-055B-277B-2E97F4139AA0}|AndroidApp1\\AndroidApp1.csproj|c:\\users\\goska\\desktop\\03_testy_dokumentacja\\androidapp1\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060E3451-677C-055B-277B-2E97F4139AA0}|AndroidApp1\\AndroidApp1.csproj|solutionrelative:androidapp1\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\goska\\Desktop\\03_testy_dokumentacja\\AndroidApp1\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "AndroidApp1\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\goska\\Desktop\\03_testy_dokumentacja\\AndroidApp1\\AndroidManifest.xml",
+              "RelativeToolTip": "AndroidApp1\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-10-31T21:14:04.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\goska\\Desktop\\03_testy_dokumentacja\\AndroidApp1\\MainActivity.cs",
+              "RelativeDocumentMoniker": "AndroidApp1\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\goska\\Desktop\\03_testy_dokumentacja\\AndroidApp1\\MainActivity.cs",
+              "RelativeToolTip": "AndroidApp1\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T21:13:55.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
